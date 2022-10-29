@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Elmo-Lin
 - 👀 I’m interested in playing the guitar and playing baseball
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently being an intern in Intel Corporation
+- 
 
 <!---
 Elmo-Lin/Elmo-Lin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
