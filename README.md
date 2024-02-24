@@ -3,7 +3,10 @@
 👀 I’m interested in playing the guitar and coding<br/>
 👨‍💻 I’m currently being an intern in Hewlett Packard Enterprise<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Elmo-Lin&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmo-Lin&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmo-Lin&layout=compact&theme=onedark" alt="Top Languages" style="height: 195px;" />
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
