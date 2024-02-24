@@ -4,7 +4,7 @@
 👨‍💻 I’m currently being an intern in Hewlett Packard Enterprise<br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elmo-Lin&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elmo-Lin&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" style="height: 195px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmo-Lin&layout=compact&theme=onedark" alt="Top Languages" style="height: 195px;" />
 </p>
 
