@@ -7,6 +7,7 @@
 ✉️  You can contact me at [alvin4883889@gmail.com](mailto:alvin4883889@gmail.com)<br/>
 🧠 I'm learning web development<br/>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/elmoelmo_?ext=contest)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Elmo-Lin&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" style="height: 195px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmo-Lin&layout=compact&theme=onedark" alt="Top Languages" style="height: 195px;" />
