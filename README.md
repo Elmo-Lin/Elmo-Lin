@@ -2,18 +2,18 @@
 
 👀 I’m interested in playing the guitar and coding<br/>
 📍 I'm based in Taiwan<br/>
-👨‍💻 I'm currently working on [Hewlett Packard Enterprise](http://www.hpe.com/tw/en/home.html)<br/>
+👨‍💻 I'm currently working on [TSMC](https://www.tsmc.com/chinese)<br/>
 🖥️ See my portfolio at [My website](http://elmo-lin.github.io/)<br/>
 ✉️  You can contact me at [alvin4883889@gmail.com](mailto:alvin4883889@gmail.com)<br/>
 🧠 I'm learning web development<br/>
 
 <!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/elmoelmo_?ext=contest)
--->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Elmo-Lin&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" style="height: 195px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmo-Lin&layout=compact&theme=onedark" alt="Top Languages" style="height: 195px;" />
 </p>
+-->
 
 
 # 💻 Tech Stack
