@@ -2,7 +2,7 @@
 
 👀 I’m interested in playing the guitar and coding<br/>
 📍 I'm based in Taiwan<br/>
-👨‍💻 I'm currently working on [TSMC](https://www.tsmc.com/chinese)<br/>
+👨‍💻 I'm currently working at [TSMC](https://www.tsmc.com/chinese)<br/>
 🖥️ See my portfolio at [My website](http://elmo-lin.github.io/)<br/>
 ✉️  You can contact me at [alvin4883889@gmail.com](mailto:alvin4883889@gmail.com)<br/>
 🧠 I'm learning web development<br/>
